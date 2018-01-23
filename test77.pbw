@@ -1,6 +1,7 @@
 Save Format v3.0(19990112)
 @begin Targets
  0 "newfeature171.pbt";
+ 1 "jhj.pbt";
 @end;
-DefaultTarget "newfeature171.pbt";
-DefaultRemoteTarget "newfeature171.pbt";
+DefaultTarget "jhj.pbt";
+DefaultRemoteTarget "jhj.pbt";
