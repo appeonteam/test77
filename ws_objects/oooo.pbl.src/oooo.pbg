@@ -3,4 +3,6 @@
  "oooo.pbl" "";
 @end;
 @begin Objects 
+ "gg.srw" "oooo.pbl";
+ "ghgj.srw" "oooo.pbl";
 @end;
