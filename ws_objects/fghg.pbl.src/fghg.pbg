@@ -1,0 +1,8 @@
+﻿Save Format v3.0(19990112)
+@begin Libraries
+ "fghg.pbl" "";
+@end;
+@begin Objects 
+ "hkjk.srw" "fghg.pbl";
+ "jkjl.srw" "fghg.pbl";
+@end;
