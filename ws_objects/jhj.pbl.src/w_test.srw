@@ -19,7 +19,7 @@ boolean center = true
 end type
 global w_test w_test
 
-event open;//
+event open;//1
 end event
 
 on w_test.create
